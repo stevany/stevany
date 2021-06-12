@@ -1,1 +1,1 @@
-![](http://www.github.com/stevany/stevany/aset/image.gif)
+![](http://www.github.com/stevany/stevany/asset/image.gif)
