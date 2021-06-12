@@ -1,1 +1,1 @@
-![](image.gif = 200x400)
+<image src="image.gif" width=200 height=400>
